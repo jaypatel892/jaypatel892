@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Jay vadariya (patel)</h1>
+ <h1 align="center">Hi 👋, I'm Jay (patel) vadariya </h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaypatel892&label=Profile%20views&color=0e75b6&style=flat" alt="jaypatel892" /> </p>
